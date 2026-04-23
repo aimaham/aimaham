@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer • Computer Vision • Agentic AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+End-to-End+ML+Systems+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision+%7C+Production+MLOps;Scalable+RAG+Pipelines+%7C+LLM+Fine-Tuning+%7C+Langchain;Automation+%7C+API+%7C+Edge+Deployment" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=ca5cdd&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+End-to-End+ML+Systems+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision+%7C+Production+MLOps;Scalable+RAG+Pipelines+%7C+LLM+Fine-Tuning+%7C+Langchain;Automation+%7C+API+%7C+Edge+Deployment" alt="Typing Animation" />
 </p>
 
 <p align="center">
