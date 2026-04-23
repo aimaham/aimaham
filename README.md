@@ -57,8 +57,8 @@
 <h3>🎓 Education</h3>
 
 - **MS Artificial Intelligence** — NUST CEME (Islamabad)  
-  **CGPA: 3.92 / 4.00 (Ranked 1st)**  
-- **Coursework:** Deep Learning, Computer Vision, NLP, Embedded AI, Cybersecurity  
+  **CGPA: 3.19**  
+- **Coursework:** Deep Learning, Computer Vision, NLP, Embedded AI, Cybersecurity, Artificial Intelligence, Machine Learning 
 
 <h3>🚀 Featured Projects</h3>
 
