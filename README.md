@@ -6,11 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+End-to-End+ML+Systems+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision+%7C+Production+MLOps;Scalable+RAG+Pipelines+%7C+LLM+Fine-Tuning+%7C+Langchain;Automation+%7C+API+%7C+Edge+Deployment" alt="Typing Animation" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6FDA44&height=140&section=header&text=Building%20Real-World%20AI%20Systems&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF1493,100:FF00FF&height=150&section=header&text=Building%20Real-World%20AI%20Systems&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 </p>
+
 
 <p align="center">
   I build <b>production-focused AI systems</b> in <b>computer vision</b>, <b>edge deployment</b>, and <b>real-time inference</b> with a strong focus on performance, optimization, and practical deployment.
