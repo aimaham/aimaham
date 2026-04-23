@@ -18,21 +18,21 @@
 
 <p align="center">
   <a href="mailto:mahambatooledu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aiwithbasit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mahambatooledu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mahambatool96/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Basit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Maham%20Batool-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01bd8d7cbeaeeef0b6?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
   <a href="https://github.com/aimaham">
-    <img src="https://img.shields.io/badge/GitHub-aibasit-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-aimaham-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aibasit&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=aimaham&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 </p>
 
 <hr/>
