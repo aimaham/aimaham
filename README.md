@@ -94,11 +94,11 @@ TensorFlow • PyTorch • OpenCV • NumPy • Scikit-learn
 <h3>📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aibasit&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimaham&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <b>Let’s build real-world AI systems.</b> 🚀  
   <br/>
-  <a href="mailto:aiwithbasit@gmail.com">aiwithbasit@gmail.com</a>
+  <a href="mailto:mahambatooledu@gmail.com">mahambatooledu@gmail.com</a>
 </p>
