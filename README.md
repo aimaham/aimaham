@@ -48,9 +48,10 @@
         <li>Building optimized pipelines using <b>TensorRT, FP16/INT8</b></li>
       </ul>
     </td>
-    <td width="40%">
-      <img alt="header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-    </td>
+    <td width="40%" align="center">
+      <img width="1200" height="800" alt="robot" src="https://github.com/user-attachments/assets/48b2631d-f411-4856-985a-d63a9aaa9b6e" />
+ 
+  </td>
   </tr>
 </table>
 
