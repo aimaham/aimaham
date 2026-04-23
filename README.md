@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer • Computer Vision • Agentic AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=ca5cdd&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+End-to-End+ML+Systems+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision+%7C+Production+MLOps;Scalable+RAG+Pipelines+%7C+LLM+Fine-Tuning+%7C+Langchain;Automation+%7C+API+%7C+Edge+Deployment" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=c90076&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+End-to-End+ML+Systems+%7C+Agentic+AI;Deep+Learning+%7C+Computer+Vision+%7C+Production+MLOps;Scalable+RAG+Pipelines+%7C+LLM+Fine-Tuning+%7C+Langchain;Automation+%7C+API+%7C+Edge+Deployment" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -18,21 +18,21 @@
 
 <p align="center">
   <a href="mailto:mahambatooledu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mahambatooledu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mahambatooledu%40gmail.com-c90076?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mahambatool96/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maham%20Batool-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Maham%20Batool-e75ea5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01bd8d7cbeaeeef0b6?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  <a href="https://www.upwork.com/freelancers/https://www.upwork.com/freelancers/~01f92eead4e1463d4e?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-c90076?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
   <a href="https://github.com/aimaham">
-    <img src="https://img.shields.io/badge/GitHub-aimaham-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-aimaham-e75ea5?style=for-the-badge&logo=github&logoColor=pink" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aimaham&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=aimaham&label=Profile%20Views&color=38761d&style=for-the-badge" />
 </p>
 
 <hr/>
