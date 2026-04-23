@@ -49,7 +49,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img width="300" height="110" alt="Artificial intelligence digital technology" src="https://github.com/user-attachments/assets/f91b8a81-41e3-4c2a-9b1d-6abe4d280dea" />
+      <img width="480" height="360" alt="giphy" src="https://github.com/user-attachments/assets/8def2e4d-6383-4832-8b0a-d8d8a56990c3" />
+
  
  
   </td>
