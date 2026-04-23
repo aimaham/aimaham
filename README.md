@@ -49,7 +49,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img width="400" height="360" alt="giphy" src="https://github.com/user-attachments/assets/8def2e4d-6383-4832-8b0a-d8d8a56990c3" />
+      <img width="480" height="264" alt="giphy" src="https://github.com/user-attachments/assets/cb3f918d-d67e-4f35-a339-8b368f427ebb" />
 
  
  
